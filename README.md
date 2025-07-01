@@ -23,15 +23,16 @@
 
 ## 🔐 const-string v2, "stats"
 
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xf0rg.png" alt="TryHackMe" width="300px">
-<img src="https://labs.hackthebox.com/storage/badges/921214.png" alt="Hack The Box" width="300px">
+<p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xf0rg.png" alt="TryHackMe" width="300px" height="80px"><br>
+<img src="https://labs.hackthebox.com/storage/badges/921214.png" alt="Hack The Box" width="300px" height="80px">
 </p>
 
-## 🕸️ const-string v3, "connect"
+## 🕸 const-string v3, "connect"
 
 - 🔗 [LinkedIn](https://linkedin.com/in/raian-moretti)
 
 ---
 
-> `> Decompiled during threat emulation. Code may self-mutate.`
+<code>&gt; Decompiled during threat emulation. Code may self-mutate.</code>
+
