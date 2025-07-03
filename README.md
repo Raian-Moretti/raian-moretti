@@ -1,5 +1,5 @@
 <h1 align="center">👾 Raian Moretti</h1>
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=670000&center=true&vCenter=true&width=435&lines=you+can't+stop+us+all...;after+all%2C+we're+all+alike.)
 <p align="center">
   🛠️ Offensive Security • 📱 Mobile Hacking • 🎯 CTF Competitor  
 </p>
@@ -22,11 +22,11 @@
 ---
 
 ## 🔐 const-string v2, "stats"
-
-<p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xf0rg.png" alt="TryHackMe" width="300px" height="80px"><br>
-<img src="https://labs.hackthebox.com/storage/badges/921214.png" alt="Hack The Box" width="300px" height="80px">
-</p>
+<div align="center">
+  <a href="https://tryhackme.com/p/0xf0rg">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xf0rg.png" alt="TryHackMe Badge">
+  </a>
+</div>
 
 ## 🕸 const-string v3, "connect"
 
